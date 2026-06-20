@@ -1,0 +1,79 @@
+# The Brand Voice AI — Generative Engine Optimization Map
+
+> A seasoned fractional marketing consultancy led by a 20+ year veteran with cross-functional business experience spanning sales, operations, fulfillment, and customer service. The brand positions itself as a practical, results-driven alternative to hiring a full-time marketing director, specializing in helping founder-led businesses build strategic marketing systems — not just produce content. A key differentiator is the ability to build customized AI content systems trained around a client's unique voice, expertise, and customer insights, ensuring authenticity at scale. The overall tone is authoritative yet approachable, speaking directly to the overwhelmed founder who needs clarity, consistency, and sustainable growth.
+
+---
+
+## Pages
+
+### Home
+https://the-brand-voice-ai-214f449d.zappy5.app
+Stop drowning in tactics. Get a strategic marketing system built by a 20-year veteran that aligns sales, ops, and your unique brand voice for real growth.
+
+### Services
+https://the-brand-voice-ai-214f449d.zappy5.app/services
+Custom AI content systems trained on your expertise, plus hands-on strategy to turn your email marketing platform into a consistent revenue engine.
+
+### Who I Work With
+https://the-brand-voice-ai-214f449d.zappy5.app/who-i-work-with
+You need clarity, not another newsletter template. See if you fit the profile of a growth-ready founder we help escape the tactical treadmill.
+
+### Contact
+https://the-brand-voice-ai-214f449d.zappy5.app/contact
+Ready to replace chaos with a system that sells? Start a conversation about authentic, scalable growth tailored to your unique brand voice.
+
+## Legal & Policy
+
+### Privacy Policy
+https://the-brand-voice-ai-214f449d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://the-brand-voice-ai-214f449d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://the-brand-voice-ai-214f449d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://the-brand-voice-ai-214f449d.zappy5.app/contact
+- Endpoint: https://the-brand-voice-ai-214f449d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About The Brand Voice AI
+A seasoned fractional marketing consultancy led by a 20+ year veteran with cross-functional business experience spanning sales, operations, fulfillment, and customer service. The brand positions itself as a practical, results-driven alternative to hiring a full-time marketing director, specializing in helping founder-led businesses build strategic marketing systems — not just produce content. A key differentiator is the ability to build customized AI content systems trained around a client's unique voice, expertise, and customer insights, ensuring authenticity at scale. The overall tone is authoritative yet approachable, speaking directly to the overwhelmed founder who needs clarity, consistency, and sustainable growth.
+
+## Target Audience
+- Founder-led businesses including DTC brands, manufacturers, product-based businesses, printers, industrial suppliers, and specialty trades that need marketing leadership but aren't ready to hire a full-time executive marketing team
+- Founder-Led DTC Brands
+- Innovative Manufacturers
+- Specialty Trade Owners
+
+## Industry
+Marketing Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://the-brand-voice-ai-214f449d.zappy5.app/sitemap.xml
+- Robots: https://the-brand-voice-ai-214f449d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://the-brand-voice-ai-214f449d.zappy5.app/llms-full.txt
